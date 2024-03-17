@@ -1,12 +1,10 @@
 body {
     font-family: sans-serif;
+        background-color: orange;
+
 }
 h1{
     text-align: center;
-}
-body{
-    background-color: orange;
-}
 p{
     text-align: center;
     color: orangered;
